@@ -1,6 +1,6 @@
 {
   "name": "MQTT2IR",
-  "version": "1.0.0-beta.5",
+  "version": "latest",
   "slug": "mqtt2ir",
   "description": "Web UI for IR bridges with learning and MQTT auto-discovery",
   "url": "https://github.com/spasemice/mqtt2ir",
