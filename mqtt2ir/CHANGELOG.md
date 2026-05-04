@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0-beta.8
+
+- Added Home Assistant output entity type per button:
+- `button` (default), `switch`, `light`
+- Added UI selector in Button settings for HA output entity type
+- Updated HA discovery cleanup for switch/light entities
+
 ## 1.0.0-beta.7
 
 - Added input mode `press` for binary sensor buttons
