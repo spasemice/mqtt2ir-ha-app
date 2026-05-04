@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.0-beta.7
+
+- Added input mode `press` for binary sensor buttons
+- Improved input state publishing with retained MQTT state topics
+- Improved last-button state publishing with retained MQTT state topics
+
 ## 1.0.0-beta.6
 
 - Added MQTT IR blaster bridge topic editing (Edit mode in UI)

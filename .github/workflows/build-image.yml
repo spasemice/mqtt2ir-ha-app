@@ -11,7 +11,7 @@ permissions:
   packages: write
 
 env:
-  ADDON_VERSION: 1.0.0-beta.6
+  ADDON_VERSION: 1.0.0-beta.7
 
 jobs:
   build:
