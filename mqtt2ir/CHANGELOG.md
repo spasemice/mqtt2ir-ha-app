@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.0-beta.6
+
+- Added MQTT IR blaster bridge topic editing (Edit mode in UI)
+- Excluded MQTT blaster bridges from IR Database send targets
+- Added raw learned-code preview with copy action in Devices panel
+
 ## 1.0.0-beta.5
 
 - Added Zigbee2MQTT ZS06 compatibility:
